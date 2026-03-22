@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Addressed feedback from self code review
 - Improved error handling in edge cases
+
+## 2026-03-23
+- Cross-checked behaviour against spec
